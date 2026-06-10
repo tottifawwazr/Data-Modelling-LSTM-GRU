@@ -1,6 +1,6 @@
 # Gold Return Forecasting Using Stacking GRU–LSTM and Macroeconomic Indicators
 
-[![DOI](https://zenodo.org/badge/1265322073.svg)](https://doi.org/10.5281/zenodo.20631198)
+https://zenodo.org/badge/1265322073.svg)](https://doi.org/10.5281/zenodo.20631198
 
 ## 1. Title
 
